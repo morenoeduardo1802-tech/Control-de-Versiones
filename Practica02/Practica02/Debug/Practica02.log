@@ -1,0 +1,14 @@
+﻿  P02-307280905.cpp
+C:\Users\JairE\Documents\ProyectoLabCGeIHC\LabCGeIHC\Prac02\Practica02\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P02-307280905.cpp")
+  
+C:\Users\JairE\Documents\ProyectoLabCGeIHC\LabCGeIHC\Prac02\Practica02\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P02-307280905.cpp")
+  
+C:\Users\JairE\Documents\ProyectoLabCGeIHC\LabCGeIHC\Prac02\Practica02\P02-307280905.cpp(17,37): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\JairE\Documents\ProyectoLabCGeIHC\LabCGeIHC\Prac02\Practica02\P02-307280905.cpp(402,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\JairE\Documents\ProyectoLabCGeIHC\LabCGeIHC\Prac02\Practica02\P02-307280905.cpp(415,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\JairE\Documents\ProyectoLabCGeIHC\LabCGeIHC\Prac02\Practica02\P02-307280905.cpp(445,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\JairE\Documents\ProyectoLabCGeIHC\LabCGeIHC\Prac02\Practica02\P02-307280905.cpp(470,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\JairE\Documents\ProyectoLabCGeIHC\LabCGeIHC\Prac02\Practica02\P02-307280905.cpp(485,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Practica02.vcxproj -> C:\Users\JairE\Documents\ProyectoLabCGeIHC\LabCGeIHC\Prac02\Practica02\Debug\Practica02.exe
